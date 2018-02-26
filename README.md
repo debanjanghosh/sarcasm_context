@@ -5,5 +5,6 @@ Role of conversation context for sarcasm detection. Three sets of data is used.
 (3) Twitter dialogue of 26K utterances. TODO - some preprocessing before releasing the data.
 
 To learn about the models, please check
-"The Role of Conversation Context for Sarcasm Detection in Online Interactions" (https://arxiv.org/abs/1707.06226)
+"The Role of Conversation Context for Sarcasm Detection in Online Interactions" (https://arxiv.org/abs/1707.06226).
+
 Also, a much longer version on using conversation context will be soon available (currently, in review for CL/minor changes). If you want to read the preprint please contact. 
